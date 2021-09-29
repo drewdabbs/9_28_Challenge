@@ -1,0 +1,10 @@
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\bin\Debug\01_Profile.exe.config
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\bin\Debug\01_Profile.exe
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\bin\Debug\01_Profile.pdb
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\bin\Debug\ClassLibrary1.dll
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\bin\Debug\ClassLibrary1.pdb
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\obj\Debug\01_Profile.csproj.AssemblyReference.cache
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\obj\Debug\01_Profile.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\obj\Debug\01_Profile.csproj.CopyComplete
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\obj\Debug\01_Profile.exe
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\1_Gold_Badge\9_28_Challenge\ChallengeClass\01_Profile\obj\Debug\01_Profile.pdb

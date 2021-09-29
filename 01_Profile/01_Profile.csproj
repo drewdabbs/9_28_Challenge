@@ -7,7 +7,7 @@
     <ProjectGuid>{40719BA0-6608-41C6-9E0E-799799BBBF3E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_01_Profile</RootNamespace>
-    <AssemblyName>_01_Profile</AssemblyName>
+    <AssemblyName>01_Profile</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\01_ProfileClass.csproj">
+      <Project>{31BD836D-9863-4F3F-AC8D-FB44910D9C93}</Project>
+      <Name>01_ProfileClass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
